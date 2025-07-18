@@ -3,7 +3,7 @@
 
 ---
 
-## 📌 About the Project
+## About the Project
 
 This project was developed as part of my preparation for the **Senior Decision Science Analyst** position at **Sanofi**, supporting **Global Regulatory Affairs (GRA)** and **Global Regulatory Operations (GRO)**.
 
@@ -30,7 +30,7 @@ The goal was to demonstrate:
 
 ---
 
-## 🎯 KPIs Tracked
+## KPIs Tracked
 
 - Average Submission Cycle Time  
 - Health Authority (HA) Query Rate  
@@ -43,12 +43,8 @@ The goal was to demonstrate:
 
 ## 📁 Files Included
 
-- `vault_rim_data.csv` — AI-generated Veeva Vault submission dataset  
-- `gantt_data.csv` — Task-level data aligned with GRA/GRO workflows  
-- `Gantt 2.0 Spec.json` — Vega-Lite Gantt chart template for Deneb  
-- `dashboard.pbix` — Main Power BI report file  
-- `README.md` — This file  
-- Folder: `/figma_assets/` — Dashboard layout and visual elements (optional)  
+- [AI-generated Veeva Vault submission dataset](https://github.com/LakovskyR/GRA-GRO/blob/main/simulated_veeva_vault_rim_data.xlsx)  
+- [Main Power BI report file](https://github.com/LakovskyR/GRA-GRO/blob/main/gra-gro-antarctic-Project.pbix)  
 
 ---
 
@@ -63,7 +59,7 @@ This creative frame helps engage stakeholders while presenting serious regulator
 
 Created by **Roman Lakovskiy**  
 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/roman-lakovskiy/)  
-or visit my portfolio: [https://lakovskiy.ju.mp](https://lakovskiy.ju.mp)
+or visit my portfolio: [https://roman-lakovskiy.ju.mp](https://roman-lakovskiy.ju.mp)
 
 ---
 
