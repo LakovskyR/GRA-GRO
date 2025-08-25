@@ -1,4 +1,4 @@
-# 🧊 GRA/GRO Performance in Frozen Sectors ❄️  
+# 🧊 Sanofi Project 1 : GRA/GRO Performance in Frozen Sectors ❄️ 
 **A creative Power BI portfolio project simulating Veeva Vault RIM regulatory workflows**
 
 ---
@@ -21,12 +21,14 @@ The goal was to demonstrate:
   - `gantt_data.csv`: GRA/GRO task tracking data for Gantt chart visuals
 
 - **Power BI dashboard** includes:
+<img width="1484" height="818" alt="image" src="https://github.com/user-attachments/assets/309c9080-8239-48b4-b690-1c70cef73011" />
   - KPI Cards with conditional formatting
   - Custom **Gantt chart** using [Deneb](https://deneb.io) (Vega-Lite JSON spec)
   - **Sankey diagram** built with embedded **R script** (`networkD3` package)
   - **IconMap visual** for interactive Antarctica-themed sector mapping
   - **Alert filters** to track short submission delays
   - Winter-themed **Figma-inspired layout** with custom fonts, color palette, and visuals
+t<img width="1506" height="837" alt="image" src="https://github.com/user-attachments/assets/60795bff-7471-4361-86a2-df05cd154f27" />
 
 ---
 
