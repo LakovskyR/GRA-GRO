@@ -60,6 +60,7 @@ This creative frame helps engage stakeholders while presenting serious regulator
 ## 📬 Contact
 
 Created by **Roman Lakovskiy**  
+Take a look on my second project [Sanofi2](https://github.com/LakovskyR/GRA-GRO/blob/main/README%20Sanofi%20Project2.md)
 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/roman-lakovskiy/)  
 or visit my portfolio: [https://roman-lakovskiy.ju.mp](https://roman-lakovskiy.ju.mp)
 
