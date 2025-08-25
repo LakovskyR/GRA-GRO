@@ -41,6 +41,8 @@ The dataset chosen is the **WHO Clinical Trials Registry** (~105,000 trials over
 <img width="1517" height="851" alt="image" src="https://github.com/user-attachments/assets/d4758e09-f1bd-4b12-a511-b2ff792bcb50" />
 - **Performance Dashboard**: Focuses on clinical trial approval times — compares Sanofi vs industry average by country and therapeutic area (with parameters, calculation groups, and R visuals)
 <img width="1515" height="850" alt="image" src="https://github.com/user-attachments/assets/b44db902-99b9-463d-8792-dab6877ec0c5" />
+
+[PBIX IS TOO BIG FOR GITHUB](https://1drv.ms/u/c/57d3c64c25e64bc3/EYzcCRke4qpInbz1zlw_1oQBF9aeRmjDyC5Ou4NUiMDRUQ?e=LaWKKo)
 ---
 
 ## 📚 Technologies Used
